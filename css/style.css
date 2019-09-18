@@ -138,3 +138,34 @@ header nav ul li {
   width: 100%;
   height: 40vh;
 }
+
+#title1{
+  padding-top: 50px;
+  width: 60%;
+}
+
+#title1 .tec{
+  height: 40px;
+  background-color: #c4c4c4;
+  text-align: center;
+  font-family: Shadows Into Light Two;
+  border-style: dotted dashed solid double;
+}
+
+#imagem{
+  width: 30%;
+}
+
+.img{
+  padding-top: 20%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.text1{
+  padding-top: 20%;
+  color: #000;
+  text-align: center;
+  font-family: Shadows Into Light Two;
+}
