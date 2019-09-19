@@ -73,7 +73,7 @@ header nav ul li {
 
  #lk_about{
  	width: 90%;
-  height: 115vh;
+  height: 80vh;
  	display: flex;
   flex-direction: column;
  }
